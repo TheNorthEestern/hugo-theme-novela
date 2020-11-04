@@ -1,14 +1,14 @@
 ---
-title: Understanding the Gatsby lifecycle in depth
-date: 2017-04-28
-hero: /images/hero-2.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+title: The Banana Split Keyboard
+date: 2020-11-04T02:10:00Z
+hero: "/static/images/title_large.png"
+excerpt: A split keyboard for the iPad. Makes typing on iPad Air (4th generation)
+  and iPad Pro significantly easier!  Available now on the App Store
 timeToRead: 4
 authors:
-  - Kacy James
+- Kacy James
 
 ---
-
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 At Narative, we’ve been fans of Gatsby from day one, using it to build performant and flexible products for both clients and ourselves. With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.

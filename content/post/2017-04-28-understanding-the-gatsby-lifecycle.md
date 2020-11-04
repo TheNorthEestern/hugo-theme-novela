@@ -1,7 +1,7 @@
 ---
 title: The Banana Split Keyboard
 date: 2020-11-04T02:10:00Z
-hero: "/static/images/title_large.png"
+hero: "/static/uploads/title_large.png"
 excerpt: A split keyboard for the iPad. Makes typing on iPad Air (4th generation)
   and iPad Pro significantly easier!  Available now on the App Store
 timeToRead: 4

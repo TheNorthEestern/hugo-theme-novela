@@ -9,13 +9,37 @@ authors:
 
 ---
 
+_Student Driver – Tactical Driving Action_ is an iOS game I built between October 2015 and March 2016. Built using the Unity engine, this game represents my first foray into a game featuring an isometric-perspective design.
+
 ![This is the alt text](/images/student_driver/title_screen.png)
+
+The title screen
 
 ![This is the alt text](/images/student_driver/title_card_medium.png)
 
+The _Student Driver_ logo/wordmark
+
 ![This is the alt text](/images/student_driver/collision.jpeg)
 
-Parts of the lifecycle are visible when running $ gatsby develop
-A peak into the Gatsby lifecycle when running $ gatsby develop
-A peak into the Gatsby lifecycle when running \$ gatsby develop
-If you’re familiar with React and the component lifecycle, Gatsby’s lifecycle is almost the same concept. Just like React’s lifecycle, Gatsby exposes hooks for developers to build on top of. Those lifecycle hooks are accessed through Gatsby specific files such as gatsby-node.js, gatsby-browser.js and gatsby-ssr.js.
+An early build of _Student Driver_ demonstrating road generation.
+
+![This is the alt text](/images/student_driver/birds_eye.jpeg)
+
+![This is the alt text](/images/student_driver/active_gameplay.jpeg)
+
+![This is the alt text](/images/student_driver/detail_shot.jpeg)
+
+![This is the alt text](/images/student_driver/detail_shot_2.png)
+
+![This is the alt text](/images/student_driver/f40.png)
+
+![This is the alt text](/images/student_driver/f40_rear.png)
+
+![This is the alt text](/images/student_driver/fireball.png)
+
+![This is the alt text](/images/student_driver/model_comparison.png)
+
+![This is the alt text](/images/student_driver/nyu_demo_1.jpeg)
+
+![This is the alt text](/images/student_driver/nyu_demo_2.jpeg)
+
